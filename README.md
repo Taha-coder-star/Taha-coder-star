@@ -89,19 +89,15 @@ Full MERN store for a US electronics retailer.
 
 ### 🛠️ Tech stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=py,js,react,nodejs,express,mongodb,postgres,flask,sklearn,aws,gcp,docker,linux,git" alt="Tech stack"/>
-</p>
+![Tech stack](https://skillicons.dev/icons?i=py,js,react,nodejs,express,mongodb,postgres,flask,sklearn,aws,gcp,docker,linux,git)
 
-<p>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph"/>
-  <img src="https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white" alt="pgvector"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini"/>
-  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logoColor=black" alt="YOLOv8"/>
-  <img src="https://img.shields.io/badge/WhatsApp%20API-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp API"/>
-</p>
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logoColor=black)
+![WhatsApp API](https://img.shields.io/badge/WhatsApp%20API-25D366?style=flat-square&logo=whatsapp&logoColor=white)
 
 ### 🧩 Also into
 
@@ -109,7 +105,8 @@ Cybersecurity (insider threats, honeypots) · Compiler theory · Cloud engineeri
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true" height="160" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" height="160" alt="Top languages"/>
-</p>
+### 📈 GitHub stats
+
+<!-- Replace YOUR_USERNAME with your GitHub username or these cards show an error -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true)
+![GitHub streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true)
