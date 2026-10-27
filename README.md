@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Taha 👋</h1>
+<h1 align="center">Hey, I'm Taha Ahmed 👋</h1>
 
 <p align="center">
   <b>CS @ FAST-NUCES Karachi · Agentic AI · Applied ML · Full-Stack</b><br/>
@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://YOUR_PORTFOLIO_SITE"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://github.com/Taha-coder-star"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 ---
@@ -57,14 +57,14 @@ AI agent that handles property inquiries, follow-ups, and lead conversations on 
 
 `WhatsApp Business API` `LLMs` `PostgreSQL` `pgvector`
 
-#### 🛡️ Insider Threat Detection (UEBA / DLP)
+#### 🛡️ [Insider Threat Detection (UEBA / DLP)](https://github.com/Taha-coder-star/UEBA-PROJECT)
 Stacked anomaly-detection ensemble on the **CERT r4.2** dataset.
 - Chains Isolation Forest → LSTM Autoencoder → Logistic Regression meta-model
 - Caught **41 / 70** insiders at **F1 = 0.68** — a **173% improvement** over baseline
 
 `scikit-learn` `LSTM Autoencoder` `Anomaly Detection` `Python`
 
-#### 🛒 Cellular Solutions — E-Commerce Platform *(Freelance)*
+#### 🛒 [Cellular Solutions — E-Commerce Platform](https://github.com/Taha-coder-star/Cellular7solutions) *(Freelance)*
 Full MERN store for a US electronics retailer.
 - Built JWT auth, nine MongoDB collections, and Cloudinary media handling
 - Designed the brand system and mega-menu navigation
@@ -73,6 +73,8 @@ Full MERN store for a US electronics retailer.
 `MongoDB` `Express` `React` `Node.js` `Cloudinary`
 
 #### 💬 More
+- **[AI Load Balancer](https://github.com/Taha-coder-star/AILOADBALANCER)** — real-time load-balancer simulator with runtime-switchable Round Robin / Least Connections strategies and a live React + Recharts dashboard
+- **[Mental Health App Prototype](https://github.com/Taha-coder-star/MENTALHEALTHPROJECT)** — user-centered mobile app prototype for Pakistani university students, designed in Stitch / Figma
 - **SmolLM2 Chat** — fine-tuned SmolLM2-360M-Instruct on DailyDialog, served through a Flask + ngrok chat UI
 - **Repair Shop WhatsApp Bot** — LangChain + Gemini assistant answering my shop's customers
 - **Wheat Stem Rust Detection** — pre-symptomatic detection on the Fedotov et al. hyperspectral dataset *(in progress)*
@@ -107,6 +109,5 @@ Cybersecurity (insider threats, honeypots) · Compiler theory · Cloud engineeri
 
 ### 📈 GitHub stats
 
-<!-- Replace YOUR_USERNAME with your GitHub username or these cards show an error -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true)
-![GitHub streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Taha-coder-star&show_icons=true&hide_border=true)
+![GitHub streak](https://streak-stats.demolab.com?user=Taha-coder-star&hide_border=true)
